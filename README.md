@@ -67,7 +67,7 @@ Here are some of my featured repositories that showcase my work:
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/rizkyhafiyyan/)
+- [LinkedIn](https://www.linkedin.com/in/rizky-hafiyyan-b44895298/)
 - [Instagram](https://www.instagram.com/rizkyhaf/)
 - [Email](mailto:rizkyhafiyyan12@gmail.com)
 
