@@ -39,13 +39,17 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 
 Here are some of my featured repositories that showcase my work:
 
-1. **[Cloud Application](https://github.com/NotMijun/Cloud-Application)**
-   - **Description**: A cloud-based application deployed on AWS with Docker containers for scalability.
-   - **Technologies**: AWS, Docker, React, Node.js
+1. **[RPG Game]([(https://github.com/NotMijun/Game-Project-ALPROLAB))**
+   - **Description**: RPG Based game, using C coding language as its base code.
+   - **Languages**: C
 
-2. **[Data Processing Pipeline](https://github.com/NotMijun/Data-Processing-Pipeline)**
-   - **Description**: A data processing pipeline for real-time data ingestion using **Kafka** and **Spark**.
-   - **Technologies**: Kafka, Spark, Python, PostgreSQL
+2. **[CustomFit]([(https://github.com/abraamsf/Custom-Fit))**
+   - **Description**: A website that is dedicated to make custom T-Shirts online.
+   - **Languages**: HTML, CSS, JavaScript
+  
+2. **[Phishing Link Detector]([https://github.com/abraamsf/Phising-Link-Detector))**
+   - **Description**: A website that can detect phishing links to ensure you that a link is safe to visit.
+   - **Languages**: HTML, JavaScript
 
 ---
 
@@ -62,9 +66,8 @@ Here are some of my featured repositories that showcase my work:
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rizkyhafiyyan/)
-- [Twitter](https://twitter.com/NotMijun)
-- [Portfolio](https://www.notmijun.com)
-- [Email](mailto:rizkyhafiyyan@example.com)
+- [Instagram](https://www.instagram.com/rizkyhaf/)
+- [Email](mailto:rizkyhafiyyan12@gmail.com)
 
 ---
 
