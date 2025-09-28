@@ -39,17 +39,17 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student at *
 
 Here are some of my featured repositories that showcase my work:
 
-1. **[RPG Game]([(https://github.com/NotMijun/Game-Project-ALPROLAB))**
-   - **Description**: RPG Based game, using C coding language as its base code.
-   - **Languages**: C
+### 1. **[RPG Game](https://github.com/NotMijun/Game-Project-ALPROLAB)**
+   - **Description**: RPG-based game, built with C programming language.
+   - **Technologies**: C, Game Development
 
-2. **[CustomFit]([(https://github.com/abraamsf/Custom-Fit))**
-   - **Description**: A website that is dedicated to make custom T-Shirts online.
-   - **Languages**: HTML, CSS, JavaScript
-  
-2. **[Phishing Link Detector]([https://github.com/abraamsf/Phising-Link-Detector))**
-   - **Description**: A website that can detect phishing links to ensure you that a link is safe to visit.
-   - **Languages**: HTML, JavaScript
+### 2. **[CustomFit](https://github.com/abraamsf/Custom-Fit)**
+   - **Description**: A website dedicated to creating custom T-shirts online.
+   - **Technologies**: HTML, CSS, JavaScript
+
+### 3. **[Phishing Link Detector](https://github.com/abraamsf/Phising-Link-Detector)**
+   - **Description**: A website that can detect phishing links to ensure safety while browsing.
+   - **Technologies**: HTML, JavaScript, Web Development
 
 ---
 
