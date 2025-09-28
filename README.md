@@ -1,7 +1,9 @@
-# Hi there, I'm Rizky Hafiyyan! 👋
+# Hi there, I'm <span style="color: #FF6347;">Rizky Hafiyyan</span>! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NotMijun&color=brightgreen)  
-Welcome to my GitHub profile! I'm a passionate **Computer Science** student at **BINUS Bandung**, specializing in **Cloud Computing**. I love learning new technologies, experimenting with them, and sharing my knowledge. This is my space where I showcase my projects, experiments, and learning journey. I'm currently diving deep into cloud technologies and modern development practices.  
+
+Welcome to my GitHub profile!  
+I'm a passionate **Computer Science** student at **BINUS Bandung**, specializing in **Cloud Computing**. I love learning new technologies, experimenting with them, and sharing my knowledge. This is my space where I showcase my projects, experiments, and learning journey. I'm currently diving deep into cloud technologies and modern development practices.  
 
 ---
 
