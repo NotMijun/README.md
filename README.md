@@ -1,56 +1,79 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm Rizky Hafiyyan! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=NotMijun&color=brightgreen)  
+Welcome to my GitHub profile! I'm a passionate **Computer Science** student at **BINUS Bandung**, specializing in **Cloud Computing**. I love learning new technologies, experimenting with them, and sharing my knowledge. This is my space where I showcase my projects, experiments, and learning journey. I'm currently diving deep into cloud technologies and modern development practices.  
 
-Welcome to my GitHub profile! I'm a passionate [Jurusan/Keahlian Anda] and I love to learn and share knowledge about [minat atau keahlian terkait]. This is my space where I showcase my projects, experiments, and learning journey. I’m currently working on several exciting projects in the fields of [bidang yang relevan, misalnya: Data Science, Web Development, Artificial Intelligence, etc.].
+---
 
-## About Me 👨‍💻
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on [deskripsikan proyek atau penelitian terkini].
-- 🌱 I’m currently learning [keahlian atau teknologi yang sedang dipelajari].
-- 👯 I’m looking to collaborate on [topik atau proyek yang ingin dikolaborasikan].
-- 🤔 I’m looking for help with [masalah atau area yang ingin ditingkatkan].
-- 💬 Ask me about [topik yang Anda kuasai].
-- 📄 Check out my [CV/Portofolio](link-ke-cv-anda) for more details.
-- ⚡ Fun fact: [Sisipkan fakta menarik tentang diri Anda].
+- 🔭 I’m currently working on a **cloud-based application** project using **AWS & Docker**.
+- 🌱 I’m learning about **Kubernetes** for orchestration and **serverless computing**.
+- 👯 I’m looking to collaborate on **Cloud Infrastructure** and **DevOps projects**.
+- 💬 Ask me about **Cloud Computing**, **Data Structures**, or **Python**.
+- 📄 Check out my [CV/Portfolio](#) for more details.
+- ⚡ Fun fact: I love **solving problems** and **optimizing systems**.
+
+---
 
 ## 🚀 My Skills
 
-- **Programming Languages**: Python, JavaScript, C++, HTML/CSS, [bahasa pemrograman lainnya]
-- **Tools & Frameworks**: React, Node.js, Django, Flask, [alat atau framework lainnya]
-- **Databases**: MySQL, MongoDB, PostgreSQL, [database lainnya]
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, [tools lainnya]
-- **Data Science**: Pandas, NumPy, Scikit-learn, [tools terkait data science lainnya]
-- **Version Control**: Git, GitHub, [tools terkait version control lainnya]
+**Programming Languages:**
+- Python, JavaScript, C++, HTML/CSS, Bash
+
+**Cloud & DevOps:**
+- AWS, Docker, Kubernetes, Terraform
+
+**Databases:**
+- MySQL, MongoDB, PostgreSQL, Redis
+
+**Tools & Frameworks:**
+- React, Node.js, Express, Django, Flask
+
+**Version Control:**
+- Git, GitHub, GitLab
+
+---
 
 ## 📂 Featured Projects
 
 Here are some of my featured repositories that showcase my work:
 
-1. **[Project Name](Link ke repositori proyek)**
-   - Description: [Deskripsi singkat proyek]
-   - Technologies: [Teknologi yang digunakan]
-   
-2. **[Project Name](Link ke repositori proyek)**
-   - Description: [Deskripsi singkat proyek]
-   - Technologies: [Teknologi yang digunakan]
+1. **[Cloud Application](https://github.com/NotMijun/Cloud-Application)**
+   - **Description**: A cloud-based application deployed on AWS with Docker containers for scalability.
+   - **Technologies**: AWS, Docker, React, Node.js
 
-## 🧑‍💻 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 🔗 Connect with Me
-
-- [LinkedIn](link-LinkedIn)
-- [Twitter](link-Twitter)
-- [Portfolio](link-portofolio-anda)
-- [Email](mailto:email-anda)
-
-## 🎨 Special Thanks to:
-
-- [Anurag Hazra](https://github.com/anuraghazra) for the [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats).
-- [[Penulis Template]](tautan-penulis-template) untuk inspirasi layout ReadMe saya.
+2. **[Data Processing Pipeline](https://github.com/NotMijun/Data-Processing-Pipeline)**
+   - **Description**: A data processing pipeline for real-time data ingestion using **Kafka** and **Spark**.
+   - **Technologies**: Kafka, Spark, Python, PostgreSQL
 
 ---
 
-Feel free to explore my repositories and let’s collaborate! 😄
+## 🧑‍💻 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotMijun&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true)
+
+## 🎯 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotMijun&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rizkyhafiyyan/)
+- [Twitter](https://twitter.com/NotMijun)
+- [Portfolio](https://www.notmijun.com)
+- [Email](mailto:rizkyhafiyyan@example.com)
+
+---
+
+## 🎨 Special Thanks to:
+- [Anurag Hazra](https://github.com/anuraghazra) for the [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats).
+- [GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats) for the stats display inspiration.
+- [GitHub Badges](https://shields.io/) for adding cool badges to the README.
+
+---
+
+**Feel free to explore my repositories, contribute, or ask me anything!**  
+Let's build something amazing together! 😄
